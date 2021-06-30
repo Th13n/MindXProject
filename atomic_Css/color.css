@@ -2,8 +2,10 @@
     --primary:#00A1E4;
     --secondary:#87D68D;
     --error:#FF595E;
+    --text-primary:#000000;
 }
 
 .bg_color-primary {
     background-color: var(--primary);
 }
+
