@@ -9,3 +9,14 @@
     background-color: var(--primary);
 }
 
+.bg_color-secondary {
+    background-color: var(--secondary);
+}
+
+.bg_color-error {
+    background-color: var(--error);
+}
+
+.text_color-primary {
+    color: var(--primary);
+}

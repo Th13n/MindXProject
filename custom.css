@@ -1,0 +1,18 @@
+.nav_link-1 a {
+text-decoration: none;
+color:black
+}
+
+.nav_link-2 button {
+    border-radius: 5px;
+    border: none;
+    cursor:pointer;
+}
+
+.wallpaper span:first-child {
+    color: #0500E4;
+}
+
+.wallpaper span:last-child {
+    color: #FAFF00;
+}

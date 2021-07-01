@@ -1,7 +1,11 @@
-.font_size-36 {
+.font_size-20 {
     font-size: 20px;
 }
 
 .text_decor-none {
     text-decoration: none;
+}
+
+.font_size-48 {
+    font-size: 40px;
 }

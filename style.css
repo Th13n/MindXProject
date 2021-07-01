@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .nav_bar {
@@ -11,6 +12,36 @@
 
 .nav_link-1 a {
     margin: 40px;
-    text-decoration: none;
-    color:black
+}
+
+.nav_link-2 a {
+    margin: 10px 20px;
+}
+
+.nav_link-2 button {
+    height: 40px;
+    width: 120px;
+}
+
+.wallpaper {
+    background-image: url(https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDIzfHxtYXRofGVufDB8fHx8MTYyNTEwMDk3NA&ixlib=rb-1.2.1&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450);
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+
+.wallpaper span {
+    margin: 10px 0;
+}
+
+.nav_bar-grade {
+    display: grid;
+    grid: 80px 80px 80px 80px 80px 80px/200px 200px;
+    margin: auto;
+    padding: auto;
+}
+
+.nav_bar-grade button {
+    height: 100%;
+    width: 100%;
 }
