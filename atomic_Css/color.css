@@ -1,0 +1,22 @@
+:root {
+    --primary:#00A1E4;
+    --secondary:#87D68D;
+    --error:#FF595E;
+    --text-primary:#000000;
+}
+
+.bg_color-primary {
+    background-color: var(--primary);
+}
+
+.bg_color-secondary {
+    background-color: var(--secondary);
+}
+
+.bg_color-error {
+    background-color: var(--error);
+}
+
+.text_color-primary {
+    color: var(--primary);
+}

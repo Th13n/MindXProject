@@ -1,35 +1,18 @@
-.nav_bar img {
-    height: 40px;
+.nav_link-1 a {
+text-decoration: none;
+color:black
 }
 
-.nav_bar span {
-    height: 40px;
-    font-size: 24px;
-}
-
-.btn_container button {
-    border: none;
+.nav_link-2 button {
     border-radius: 5px;
+    border: none;
+    cursor:pointer;
 }
 
-.btn_container a:first-child button {
-    width: 175px;
-    height: 40px;
-    background-color: #DA2C38;
+.wallpaper span:first-child {
+    color: #0500E4;
 }
 
-.btn_container a:last-child  button:last-child {
-    width:150px;
-    height: 40px;
-    background-color: #00916e;
-}
-
-.nav_link a span{
-    width:200px;
-    color: #0496FF;
-}
-
-.nav_link a {
-    margin-left: 40px;
-    text-decoration: none;
+.wallpaper span:last-child {
+    color: #FAFF00;
 }
