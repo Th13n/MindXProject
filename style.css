@@ -34,14 +34,25 @@
     margin: 10px 0;
 }
 
-.nav_bar-grade {
-    display: grid;
-    grid: 80px 80px 80px 80px 80px 80px/200px 200px;
-    margin: auto;
-    padding: auto;
+.course-introduction {
+    margin-top: 40px;
+    padding-left: 40px;
+    margin-bottom: 20px;
 }
 
-.nav_bar-grade button {
+.course-nav {
+    display: flex;
+    justify-items: center;
+}
+
+.course-nav_bar {
+    display: grid;
+    grid: 80px 80px 80px/200px 200px 200px 200px;
+    margin: auto;
+    grid-gap: 10px 10px;
+}
+
+.course-nav_bar button {
     height: 100%;
     width: 100%;
 }

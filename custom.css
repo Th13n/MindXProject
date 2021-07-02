@@ -16,3 +16,11 @@ color:black
 .wallpaper span:last-child {
     color: #FAFF00;
 }
+
+.course-introduction h3 {
+    font-size: 32px;
+}
+
+.course-introduction p {
+    font-size: 20px;
+}
