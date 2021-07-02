@@ -3,6 +3,7 @@
     --secondary:#87D68D;
     --error:#FF595E;
     --text-primary:#000000;
+    --info:#FFEC51;
 }
 
 .bg_color-primary {
@@ -19,4 +20,8 @@
 
 .text_color-primary {
     color: var(--primary);
+}
+
+.bg_color-info {
+    background-color: var(--info);
 }
