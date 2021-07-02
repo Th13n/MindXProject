@@ -17,10 +17,26 @@ color:black
     color: #FAFF00;
 }
 
-.course-introduction h3 {
-    font-size: 32px;
+.QA-question_board {
+    background-color: #3777FF;
 }
 
-.course-introduction p {
+.QA-sample_question {
+    background-color: white;
+}
+
+.separator_line {
+    border-bottom: 1px solid black;
+}
+
+.QA-sample_question h4 {
+    font-size: 24px;
+}
+
+.QA-sample_question span {
     font-size: 20px;
+}
+
+.forum-container {
+    background-color: #70C0E2;
 }

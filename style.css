@@ -34,25 +34,72 @@
     margin: 10px 0;
 }
 
+.course-container {
+    padding: 40px 0;
+}
+
 .course-introduction {
-    margin-top: 40px;
     padding-left: 40px;
     margin-bottom: 20px;
 }
 
-.course-nav {
-    display: flex;
-    justify-items: center;
-}
+
 
 .course-nav_bar {
     display: grid;
     grid: 80px 80px 80px/200px 200px 200px 200px;
     margin: auto;
     grid-gap: 10px 10px;
+    justify-content: center;
 }
 
 .course-nav_bar button {
     height: 100%;
     width: 100%;
+}
+
+.QA-container {
+    padding: 40px 40px 40px;
+    width: 100%;
+}
+
+.QA-introduction {
+    margin-bottom: 20px;
+}
+
+.QA-question_board {
+    margin: 50px 30px 0;
+    border: 1px solid black;
+    height: 400px;
+    overflow: auto;
+}
+
+.QA-sample_question {
+    height: 100px;
+    margin: 20px 20px 0px;
+    border: black solid 0.5px;
+    width: auto;
+}
+
+.forum-container {
+    padding: 20px 40px 0;
+    width: 100%;
+}
+
+.forum-introduction {
+    margin: 40px 40px 0;
+    margin-top: 40px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+
+.forum-board {
+    margin-left: 40px;
+    margin-top: 40px;
+    border: black solid 1px;
+    height: 400px;
+}
+
+.forum-week_subject {
+    text-align: center;
 }
