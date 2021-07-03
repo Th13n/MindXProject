@@ -28,6 +28,7 @@
     height: 300px;
     background-position: center;
     background-size: cover;
+    
 }
 
 .wallpaper span {
@@ -65,6 +66,11 @@
 
 .QA-introduction {
     margin-bottom: 20px;
+}
+
+.QA-introduction button {
+    margin-top: 20px;
+    padding: 10px;
 }
 
 .QA-question_board {

@@ -4,6 +4,7 @@
     --error:#FF595E;
     --text-primary:#000000;
     --info:#FFEC51;
+    --grey:#312F2F;
 }
 
 .bg_color-primary {
@@ -24,4 +25,8 @@
 
 .bg_color-info {
     background-color: var(--info);
+}
+
+.bg_color-grey {
+    background-color: var(--grey);
 }

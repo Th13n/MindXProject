@@ -10,30 +10,48 @@ color:black
 }
 
 .wallpaper span:first-child {
-    color: #0500E4;
+    color: #00A1E4;
 }
 
 .wallpaper span:last-child {
     color: #FAFF00;
 }
 
+.separator_line {
+    border-bottom: 1px solid black;
+}
+
+.course-introduction {
+    text-align: center;
+}
+
+.course-nav_bar button {
+    border: none;
+}
+
+.course-nav_bar span {
+    color: white;
+}
+
+.QA-introduction button {
+    background-color: #00A1E4;
+}
+
 .QA-question_board {
-    background-color: #3777FF;
+    background-color: #00A1E4;
 }
 
 .QA-sample_question {
     background-color: white;
 }
 
-.separator_line {
-    border-bottom: 1px solid black;
-}
+
 
 .QA-sample_question h4 {
     font-size: 24px;
 }
 
-.QA-sample_question span {
+.QA-sample_question p {
     font-size: 20px;
 }
 
