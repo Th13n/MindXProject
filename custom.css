@@ -3,6 +3,10 @@ text-decoration: none;
 color:black
 }
 
+.separator_line {
+    border-bottom: 1px solid black;
+}
+
 .nav_link-2 button {
     border-radius: 5px;
     border: none;
@@ -96,14 +100,15 @@ color:black
     background-color: white;
 }
 
-.separator_line {
-    border-bottom: 1px solid black;
-}
-
 .QA-sample_question h4 {
+    margin:0 !important;
     font-size: 24px;
 }
 
-.QA-sample_question span {
+.QA-sample_question p {
+    white-space: nowrap;
+    margin:0 !important;
     font-size: 20px;
+    text-overflow: ellipsis;
+
 }
