@@ -41,6 +41,7 @@
 .course-introduction {
     padding-left: 40px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 
@@ -56,6 +57,7 @@
 .course-nav_bar button {
     height: 100%;
     width: 100%;
+    border-radius: 3px;
 }
 
 .QA-container {
