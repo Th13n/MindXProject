@@ -11,6 +11,7 @@
 
 .username_box {
     height: 24px;
+    width: 200px;
     border: 0.5px solid black;
     border-radius: 1px;
 }
