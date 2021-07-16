@@ -3,6 +3,10 @@ text-decoration: none;
 color:black
 }
 
+.nav_link-1 a:hover {
+    color:rgb(255, 236, 81)
+}
+
 .separator_line {
     border-bottom: 1px solid black;
 }
@@ -110,5 +114,4 @@ color:black
     margin:0 !important;
     font-size: 20px;
     text-overflow: ellipsis;
-
 }
